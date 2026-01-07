@@ -51,7 +51,7 @@ Git
 Virtual Environment (recommended)
 
 Step 1: Clone the Repository
-git clone https://github.com/USERNAME/Hospital-Management-System.git
+git clone https://github.com/MorningstarVivek07/Hospital_Management
 cd Hospital-Management-System
 
 Step 2: Create Virtual Environment
