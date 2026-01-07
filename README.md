@@ -121,7 +121,7 @@ Author
 
 Vivek Chauhan
 Data Analyst & Django Developer
-GitHub: https://github.com/USERNAME
+GitHub: https://github.com/MorningstarVivek07
 
 License
 
